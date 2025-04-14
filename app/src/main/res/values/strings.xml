@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuestaoDois</string>
+    <string name="txtHeader">Cálculo do salário</string>
+    <string name="txtTitulo">Digite seu salário:</string>
+    <string name="txtRadio40">40%</string>
+    <string name="txtRadio45">45%</string>
+    <string name="txtRadio50">50%</string>
+    <string name="txtSalario">Novo salário: </string>
+
+</resources>
